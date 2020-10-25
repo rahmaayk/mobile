@@ -8,11 +8,6 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.mobile.mylistview.Hero;
-import com.mobile.mylistview.R;
-
-import org.w3c.dom.Text;
-
 import java.util.ArrayList;
 
 public class HeroAdapter extends BaseAdapter {

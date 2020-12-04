@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "MyViewAndViews"
+rootProject.name = "MyViewAndView"
